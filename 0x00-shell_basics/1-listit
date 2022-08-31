@@ -1,2 +1,2 @@
 #!/bin/bash
-/root/al-system-engineering_devops/0-current_working_directory/ls
+ls
